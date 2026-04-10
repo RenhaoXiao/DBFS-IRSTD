@@ -37,12 +37,6 @@ To address these issues, this project reconstructs the DEIMv2 decoder into a **D
 - **MBE (Minimal BBox Enhancer)**  
   Applies lightweight residual refinement to predicted bounding boxes for better localization stability on tiny infrared targets.
 
-The core implementation is located in:
-
-```bash
-engine/deim/deim_decoder.py
-```
-
 ---
 
 ## ⚙️ Installation
