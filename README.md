@@ -54,18 +54,9 @@ git clone https://github.com/RenhaoXiao/DBFS-IRSTD.git
 cd DBFS-IRSTD
 ```
 
-### 2. Create environment
+### 2. Install dependencies
 
-It is recommended to use Python 3.10+ and the corresponding version of PyTorch for CUDA.
-
-```bash
-conda create -n lqm-dbfs-irstd python=3.10 -y
-conda activate lqm-dbfs-irstd
-```
-
-### 3. Install dependencies
-
-First, install PyTorch that matches your CUDA version, then install the remaining dependencies:
+Install PyTorch that matches your CUDA version, then install the remaining dependencies:
 
 ```bash
 pip install -r requirements.txt
