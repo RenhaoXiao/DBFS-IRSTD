@@ -1,2 +1,2 @@
 # DBFS-IRSTD
-An infrared small target detection framework built upon DEIMv2, with a customized decoder in deim_decoder.py that introduces dual-branch feature flow, Layer-wise Query Memory (LQM), and Minimal BBox Enhancer (MBE) for robust tiny-target detection.
+This repository presents a lightweight infrared small target detection framework built upon DEIMv2. The core contribution is implemented in engine/deim/deim_decoder.py, where a dual-branch feature stream Transformer decoder is introduced together with Layer-wise Query Memory (LQM) and Minimal BBox Enhancer (MBE). The proposed design aims to alleviate semantic dilution during deep decoding and improve localization stability for tiny infrared targets, while maintaining low parameter and computational overhead.
