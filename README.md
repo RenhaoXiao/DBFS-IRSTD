@@ -161,6 +161,6 @@ Thanks to the authors for their great open-source contributions.
 
 If you have any questions, please feel free to submit an issue or contact the author.
 
-- GitHub Issues: `https://github.com/your_name/LQM-DBFS-IRSTD/issues`
+- GitHub Issues: `https://github.com/RenhaoXiao/DBFS-IRSTD/issues`
 
 ---
