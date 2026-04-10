@@ -222,9 +222,9 @@ You can perform inference, visualization, and export based on your own model wei
 
 This repository is built upon the following excellent works:
 
-- [DEIMv2: Real-Time Object Detection Meets DINOv3](#)
-- [DEIM: DETR with Improved Matching for Fast Convergence](#)
-- [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
+- [DEIMv2: Real-Time Object Detection Meets DINOv3](https://github.com/Intellindust-AI-Lab/DEIMv2)
+- [DEIM: DETR with Improved Matching for Fast Convergence](https://github.com/Intellindust-AI-Lab/DEIM)
+- [RT-DETR: DETRs Beat YOLOs on Real-time Object Detection](https://github.com/lyuwenyu/RT-DETR)
 
 Thanks to the authors for their great open-source contributions.
 
