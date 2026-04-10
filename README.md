@@ -75,7 +75,7 @@ OMP_NUM_THREADS=1 CUDA_VISIBLE_DEVICES=0 torchrun --master_port=7777 --nproc_per
 - `torchrun`: Distributed/standard training startup mode.
 - `--master_port=7777`: Specifies the communication port.
 - `--nproc_per_node=1`: Single-GPU training.
-- `-c ...yml`: Specifies the training configuration file.
+- `-c`: Specifies the training configuration file.
 - `--use-amp`: Enables mixed-precision training, speeding up training and reducing GPU memory usage.
 
 ---
