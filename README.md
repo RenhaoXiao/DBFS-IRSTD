@@ -1,4 +1,4 @@
-# LQM-DBFS-IRSTD
+# DBFS-IRSTD
 
 A lightweight infrared small target detection framework built upon DEIMv2, featuring a dual-branch feature stream Transformer decoder with Layer-wise Query Memory (LQM) and Minimal BBox Enhancer (MBE).
 
@@ -50,8 +50,8 @@ engine/deim/deim_decoder.py
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your_name/LQM-DBFS-IRSTD.git
-cd LQM-DBFS-IRSTD
+git clone https://github.com/RenhaoXiao/DBFS-IRSTD.git
+cd DBFS-IRSTD
 ```
 
 ### 2. Create environment
