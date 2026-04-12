@@ -3,7 +3,7 @@
 A lightweight infrared small target detection framework built upon DEIMv2, featuring a dual-branch feature stream Transformer decoder with Layer-wise Query Memory (LQM) and Minimal BBox Enhancer (MBE).
 
 >A lightweight Transformer detection framework for Infrared Small Target Detection (IRSTD).
->This project is an improvement on **DEIMv2**, with core innovations implemented in `engine/deim/deim_decoder.py`, proposing:
+>With core innovations implemented in `engine/deim/deim_decoder.py`, proposing:
 > - **Dual-Branch Feature Stream Decoder**
 > - **Layer-wise Query Memory (LQM)**
 > - **Minimal BBox Enhancer (MBE)**
@@ -13,7 +13,6 @@ A lightweight infrared small target detection framework built upon DEIMv2, featu
 ## 📌 Highlights
 
 - A lightweight detection framework for **Infrared Small Target Detection (IRSTD)**
-- Improved based on **DEIMv2**, balancing detection accuracy and real-time performance
 - Introduces a **dual-branch feature stream decoder** in the decoding stage
 - Alleviates the target semantic dilution problem in deep decoding through **LQM**
 - Improves the localization stability of infrared small targets through **MBE**
